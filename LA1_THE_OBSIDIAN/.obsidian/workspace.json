@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fbc55c9e72f22013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test 2 pull.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test de pull.md",
+                "file": "test 2 pull.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test de pull.md",
+                "file": "test 2 pull.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test de pull.md"
+                "file": "test 2 pull.md"
               }
             }
           }
@@ -138,7 +151,7 @@
   },
   "active": "48328532c666f834",
   "lastOpenFiles": [
-    "git.md",
-    "test de pull.md"
+    "test de pull.md",
+    "git.md"
   ]
 }
