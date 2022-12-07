@@ -12,7 +12,17 @@ Le Système international d'unités (abrégé en **SI**), inspiré du système m
 		<td>Kilogramme</td> 
 		<td>kg</td> 
 	</tr> 
-	
+	<tr> 
+		<td>Longueur</td> 
+		<td>mètre</td> 
+		<td>m</td> 
+	</tr> 
+	<tr> 
+		<td>Masse</td> 
+		<td>Kilogramme</td> 
+		<td>kg</td> 
+	</tr> 
+
 </table>
 
 <td>Longueur</td> 
@@ -21,3 +31,4 @@ Le Système international d'unités (abrégé en **SI**), inspiré du système m
 		<td>Température</td> 
 		<td>Quantité de matière</td> 
 		<td>Intensité lumineuse</td> 
+
