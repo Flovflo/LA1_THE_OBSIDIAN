@@ -1,0 +1,1 @@
+Ce terme ne devrait être utilisé que pour définir le domaine de variation du mesurande dans le cadre d'une application donnée. En règle générale, elle est donc plus petite que l'étendue de mesure.

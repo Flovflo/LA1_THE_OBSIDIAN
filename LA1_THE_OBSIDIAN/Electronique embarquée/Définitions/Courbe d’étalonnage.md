@@ -1,0 +1,2 @@
+C'est la courbe de la mesurande (ou plutôt la valeur vraie !) en fonction de la mesure. (on peut utiliser la courbe d'étalonnage donnée par le constructeur, ou encore la faire soit même avec plusieurs mesures).
+![](https://lh5.googleusercontent.com/R-DWcop-AoKkOiE3jJTwc0wlLDCUnlHQanG7P9PfL3HPuVqjVDnbC3FJmMhuhTu5rQ454_dD984COrDmhKNp9mzbWMWgo870sli60eE0Qra3UZu1FUOiYxDULL2cEawOFNo4pRPO4lPiLuaSKkTVJlBABpO1P7k1vL-fsdcKvOnyFZbZh_JbfTPUE2lDwA)

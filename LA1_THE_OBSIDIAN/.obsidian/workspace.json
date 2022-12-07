@@ -28,12 +28,84 @@
             }
           },
           {
-            "id": "8f305d680d8e1784",
+            "id": "2cd6359f4d1bda37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronique embarquée/Définitions.md",
+                "file": "Electronique embarquée/Définitions/ALL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d761cb8d6784713",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electronique embarquée/Définitions/Plage de mesure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "011183792b0b6c97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electronique embarquée/Définitions/Grandeur d’influence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "422000ed6103150d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electronique embarquée/Définitions/ALL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5569bbc1fdaeb02b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electronique embarquée/Définitions/Résolution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d0c504a532b9ad0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electronique embarquée/Définitions/Plage de mesure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a99d44982a4d18f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electronique embarquée/Définitions/Courbe d’étalonnage.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,14 +117,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capteur (sensor).md",
+                "file": "Electronique embarquée/Définitions/Capteur (sensor).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -118,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capteur (sensor).md",
+                "file": "Electronique embarquée/Définitions/Résolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capteur (sensor).md",
+                "file": "Electronique embarquée/Définitions/Résolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capteur (sensor).md"
+                "file": "Electronique embarquée/Définitions/Résolution.md"
               }
             }
           }
@@ -169,15 +241,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6518544696b05856",
+  "active": "5569bbc1fdaeb02b",
   "lastOpenFiles": [
-    "Electronique embarquée/Définitions.md",
-    "Capteur (sensor).md",
-    "Pasted image 20221207152556.png",
+    "Electronique embarquée/Définitions/Etendue de mesure (EM).md",
+    "Electronique embarquée/Définitions/Courbe d’étalonnage.md",
+    "Electronique embarquée/Définitions/Capteur (sensor).md",
     "PRS/Boites aux lettres/Mise en place d'une boite aux lettres.md",
-    "Electronique embarquée/Grandeur SI.md",
-    "test 2 pull.md",
-    "test de pull.md",
-    "git.md"
+    "Electronique embarquée/Définitions/Domaine d’utilisation d’un capteur.md",
+    "Electronique embarquée/Définitions/Plage de mesure.md",
+    "Electronique embarquée/Définitions/Conditionneur.md",
+    "Electronique embarquée/Définitions/Résolution.md",
+    "Exemple  1.md",
+    "Electronique embarquée/Définitions/ALL.md"
   ]
 }

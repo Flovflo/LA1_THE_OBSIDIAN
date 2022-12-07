@@ -1,3 +1,8 @@
+
+![](https://lh5.googleusercontent.com/QSJe6BHZ6cNWwmAkSVtQbfrz5dSo9eeEUl2KyMDEVc7U_R9dB2LXlUQZYBvtX9B8rpEmsMQ4MIvM9guyOrmbxKGvUGni5L60MeJG081NGcH4lqJ8Toy-3pDwNOjb-gSIPMWqOlFwpwXp7O46Ptd1yEPca5e4QFA1yMW6htVxz9gwg-HcwS_fztrCQvPFsQ)
+![](https://lh3.googleusercontent.com/ejpwtRcI6DX9qr0-yb-mvSbh-qbJKoovtsOi5gi4bCwgOjS_7D0QlFY2bgRxglalC-QLYVSTVThaKwG80KQZNQ0H7aZRf_on_hz_9FcWx9zi_twBiXYBE7sSHMs7uhxBVv5WKRDjBeFzl90w4mZg1QQ8u1uVaa8mbxhaURut1LO5JIGeuYBOec05KyRmsw)
+
+
 - **Capteur (sensor)** : premier maillon d’une chaîne d’acquisition, le capteur  transforme la grandeur physique à mesurer en une autre grandeur physique (accessible aux sens humains ou aux maillons suivants de la chaîne d’acquisition). 
 
 ![](https://lh4.googleusercontent.com/pYNLzHKiaq0PlrVZv0tp0X3Ao3B63Cnx-Ex2Ecifo3z-q4fO80CJURPUp8_V90t9GqUGOOJXM5ElXm7vrF5gx5Lm69qYpdKhtecI-JG8i2sjZIfkvEtJRT7fIg11Jg9gTutqzN5xTnZNzT8TnkrDIFgTpipWEsenCFiuOjHwdx8fGnjhjOC3uD22WnIn6A)
