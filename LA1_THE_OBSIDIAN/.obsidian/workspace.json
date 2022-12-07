@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "27ccba4086f6a1e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5fc52c952e321c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa731445423cc6c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test de pull.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a79ffa77ff45fb7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "60f25dc31d85a5a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48328532c666f834",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f8ba8a38fd08075b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9a68c94f0052594d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c4546086d562e45f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cd83778fb6eb190",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8edde14cfbc7fab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "test de pull.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9081abf7bbdaa6ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "test de pull.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "866e94d6637f2110",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3aad6aa7b73a81ae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "test de pull.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "48328532c666f834",
+  "lastOpenFiles": [
+    "git.md",
+    "test de pull.md"
+  ]
+}
